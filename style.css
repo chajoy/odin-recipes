@@ -42,3 +42,7 @@ header {
     object-fit: cover;
     border-radius: 20px;
 }
+
+.recipe-info {
+    padding: 0px 40px;
+}
