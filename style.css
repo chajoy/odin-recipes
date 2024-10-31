@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-    background: rgb(236,233,230);
-    background: linear-gradient(90deg, rgb(217, 213, 208) 0%, rgba(255,255,255,1) 100%);
+    background: rgb(236, 233, 230);
+    background: linear-gradient(90deg, rgb(217, 213, 208) 0%, rgba(255, 255, 255, 1) 100%);
 }
 
 main {
